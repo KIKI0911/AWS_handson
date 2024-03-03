@@ -5,4 +5,4 @@
 - cloud9でのGit操作をしたことがなかったので勉強になりました。
 
 ## 参考資料
-参考した資料が[こちらに](https://gist.github.com/mignonstyle/083c9e1651d7734f84c99b8cf49d57fa)になります
+参考した資料が[こちら](https://gist.github.com/mignonstyle/083c9e1651d7734f84c99b8cf49d57fa)になります
